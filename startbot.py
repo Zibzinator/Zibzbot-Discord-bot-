@@ -260,4 +260,4 @@ async def on_member_join(member):
 	await member.send("Welcome " +str(member) + " to the " + server_name)
 	print(f"{member} a person Just join the server")
 
-bot.run("NjY1OTQ1ODUyOTQxOTU5MjAw.Xh9nUw.3XJp9MIosio92r-kXZtiqNVxJqk")
+bot.run("Use your own token")
